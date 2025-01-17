@@ -1,0 +1,9 @@
+com\alura\literalura\model\Author.class
+com\alura\literalura\LiterAluraController.class
+com\alura\literalura\repository\AuthorRepository.class
+com\alura\literalura\util\ApiClient.class
+com\alura\literalura\Main.class
+com\alura\literalura\service\BookService.class
+com\alura\literalura\model\Book.class
+com\alura\literalura\service\AuthorService.class
+com\alura\literalura\repository\BookRepository.class
